@@ -1,0 +1,1 @@
+The data for this project can be found on Kaggle in the New York City Taxi Fare Prediction competition held by Google Cloud. The entire training set consists of about 55 million rows of NYC taxi fare data. There is not enough memory in the CPU to train a model using all this data so I decided to use  1200000 rows of training data 
